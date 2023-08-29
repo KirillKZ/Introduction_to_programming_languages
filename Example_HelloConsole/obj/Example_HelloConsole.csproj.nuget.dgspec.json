@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kir-KZ\\OneDrive\\Рабочий стол\\Обучение в GeekBrains\\программирование в C#\\lection_1\\Examples\\Example_HelloConsole\\Example_HelloConsole.csproj": {}
+    "c:\\Users\\Kir-KZ\\OneDrive\\Рабочий стол\\Обучение в GeekBrains\\программирование в C#\\lection_1\\Examples\\Example_HelloConsole\\Example_HelloConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kir-KZ\\OneDrive\\Рабочий стол\\Обучение в GeekBrains\\программирование в C#\\lection_1\\Examples\\Example_HelloConsole\\Example_HelloConsole.csproj": {
+    "c:\\Users\\Kir-KZ\\OneDrive\\Рабочий стол\\Обучение в GeekBrains\\программирование в C#\\lection_1\\Examples\\Example_HelloConsole\\Example_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kir-KZ\\OneDrive\\Рабочий стол\\Обучение в GeekBrains\\программирование в C#\\lection_1\\Examples\\Example_HelloConsole\\Example_HelloConsole.csproj",
+        "projectUniqueName": "c:\\Users\\Kir-KZ\\OneDrive\\Рабочий стол\\Обучение в GeekBrains\\программирование в C#\\lection_1\\Examples\\Example_HelloConsole\\Example_HelloConsole.csproj",
         "projectName": "Example_HelloConsole",
-        "projectPath": "C:\\Users\\Kir-KZ\\OneDrive\\Рабочий стол\\Обучение в GeekBrains\\программирование в C#\\lection_1\\Examples\\Example_HelloConsole\\Example_HelloConsole.csproj",
+        "projectPath": "c:\\Users\\Kir-KZ\\OneDrive\\Рабочий стол\\Обучение в GeekBrains\\программирование в C#\\lection_1\\Examples\\Example_HelloConsole\\Example_HelloConsole.csproj",
         "packagesPath": "C:\\Users\\Kir-KZ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kir-KZ\\OneDrive\\Рабочий стол\\Обучение в GeekBrains\\программирование в C#\\lection_1\\Examples\\Example_HelloConsole\\obj\\",
+        "outputPath": "c:\\Users\\Kir-KZ\\OneDrive\\Рабочий стол\\Обучение в GeekBrains\\программирование в C#\\lection_1\\Examples\\Example_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kir-KZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
         }
       }
     }
